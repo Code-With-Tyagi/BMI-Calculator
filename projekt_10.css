@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+.first-input{
+    margin-top: 20px;
+}
+
+.second-input{
+    margin-top: 50px;
+}
+
+#height{
+    height: 20px;
+}
+
+#weight{
+    height: 20px;
+}
+#btn{
+    height: 50px;
+    border-radius: 25px;
+    width: 18%;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.list li{
+    list-style-type: none;
+}
